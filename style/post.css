@@ -1,5 +1,5 @@
 /* ADD styling for all of the divs in post.html to match  */
-.individual-post-title {
+#individual-post-title {
   font-size: 2em;
   text-align: center;
   color: #333;
@@ -7,7 +7,7 @@
   padding-bottom: 24px;
 }
 
-.individual-post-date {
+#individual-post-date {
   color: #adb5bd;
   padding-top: 24px;
   padding-bottom: 24px;
@@ -16,7 +16,7 @@
   border-bottom: 1px solid #eaecee;
 }
 
-.individual-post-content {
+#individual-post-content {
   padding-top: 24px;
   padding-left: 16px;
   padding-right: 16px;
