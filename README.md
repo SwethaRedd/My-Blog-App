@@ -1,4 +1,4 @@
-# PWJ-Module-8-FrontEnd
+# PWJ-Module-8-My-blog-app
 
  Working Home Page and Individual Blog Page
  
